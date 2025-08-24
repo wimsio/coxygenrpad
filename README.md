@@ -1,4 +1,6 @@
-Welcome to rapid Plutus Application Development (rPAD)- Pheidippides
+# Welcome to rapid Plutus Application Development (rPAD)- Pheidippides 
+
+## Please Note! The correct website running is [rPAD- Pheidippides](https://coxygenrpad.xyz/) These did not register: https://coxygenrpad.co and https://project-site.co.
 
 This repository will be source code. For examples, docs and templates use the links below
 
